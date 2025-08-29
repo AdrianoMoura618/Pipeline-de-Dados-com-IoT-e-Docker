@@ -8,6 +8,7 @@ O dashboard permite visualizar métricas gerais, gráficos de média por disposi
 
 ## 📂 Estrutura do Projeto
 
+```
 Pipeline-de-Dados-com-IoT-e-Docker/
 ├── src/
 │   └── dashboard.py        # Script principal do Streamlit
@@ -15,14 +16,14 @@ Pipeline-de-Dados-com-IoT-e-Docker/
 │   └── carregarDados.py    # Script para importar CSV para o PostgreSQL
 ├── docs/
 │   └── IOT-temp.csv        # Dataset CSV
+├── imgs/ # Pasta com as capturas de tela
 ├── requirements.txt        # Lista de dependências Python
+├── ParteTeorica.pdf        # Documentação em pdf
 ├── docker-compose.yml      # Configuração do Docker para PostgreSQL
 └── README.md               # Este arquivo com instruções do projeto
+```
 
-imgs/ # Pasta com as capturas de tela
-ParteTeorica.pdf # Documentação em pdf
-
-link para o video: 
+Link para o video: 
 
 ---
 
