@@ -13,7 +13,7 @@ Pipeline-de-Dados-com-IoT-e-Docker/
 ├── src/
 │   └── dashboard.py        # Script principal do Streamlit
 ├── data/
-│   └── carregarDados.py    # Script para importar CSV para o PostgreSQL
+│   └── carregarDados.py    # Script para importar CSV para o PostgreSQL e Parte teórica do projeto
 ├── docs/
 │   └── IOT-temp.csv        # Dataset CSV
 ├── imgs/ # Pasta com as capturas de tela
