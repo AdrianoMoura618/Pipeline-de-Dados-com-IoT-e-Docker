@@ -23,7 +23,7 @@ Pipeline-de-Dados-com-IoT-e-Docker/
 └── README.md               # Este arquivo com instruções do projeto
 ```
 
-Link para o video: 
+Link para o video: https://drive.google.com/file/d/1IjrBk7hb-tsZjtSGz_n6iS54FuwcOjPb/view?usp=drivesdk
 
 ---
 
